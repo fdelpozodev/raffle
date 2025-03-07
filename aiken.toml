@@ -1,12 +1,12 @@
-name = "fdelpozo/raffle"
+name = "fdelpozodev/raffle"
 version = "0.0.0"
 compiler = "v1.1.13"
 plutus = "v3"
 license = "Apache-2.0"
-description = "Aiken contracts for project 'txalata/raffle'"
+description = "Aiken contracts for project 'fdelpozodev/raffle'"
 
 [repository]
-user = "fdelpozo"
+user = "fdelpozodev"
 project = "raffle"
 platform = "github"
 
